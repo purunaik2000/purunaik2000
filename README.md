@@ -1,8 +1,8 @@
-## Purushotam Naik
+# Purushotam Naik
 
-** Backend-Developer **
+``` Backend-Developer ```
 
-# Tech Stacks
+## Tech Stacks
 * Javascript
 * NodeJS
 * MongoDb

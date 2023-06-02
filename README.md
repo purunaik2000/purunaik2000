@@ -1,6 +1,6 @@
 ## Purushotam Naik
 
-** Backend-Developer
+** Backend-Developer **
 
 # Tech Stacks
 * Javascript

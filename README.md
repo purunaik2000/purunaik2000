@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purushottam Naik</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm passionate about building robust and scalable web applications. With expertise in HTML5, CSS3, JavaScript, Node.js, MongoDB, Express.js, React, MySQL, Java, Redis, and Git, I strive to create efficient and reliable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purunaik2000&label=Profile%20views&color=0e75b6&style=flat" alt="purunaik2000" /> </p>
 

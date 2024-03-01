@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/purushottam-naik-306814216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purushottam-naik-306814216" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/purushottam-naik-8a72bb286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purushottam-naik-306814216" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/purunaik2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="purunaik2000" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/purunaik2000/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="purunaik2000/profile" height="30" width="40" /></a>
 </p>

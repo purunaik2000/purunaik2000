@@ -76,6 +76,18 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/>
+  </a>
+  <a href="https://kibana.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-plain.svg" alt="Kibana" width="40" height="40"/>
+  </a>
+  <a href="https://redpanda.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/66140/red-panda.svg" alt="Redpanda" width="40" height="40"/>
+  </a>
+  <a href="https://docs.bullmq.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/purunaik2000/purunaik2000/main/assets/bullmq-icon.svg" alt="BullMQ" width="40" height="40"/>
+  </a>
 </p>
 
 ---

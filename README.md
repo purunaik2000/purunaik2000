@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=purunaik2000&theme=algolia" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=purunaik2000&theme=algolia&row=1&column=2" alt="GitHub Trophy" />
   </a>
 </p>
 
@@ -94,9 +94,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!--- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=purunaik2000&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+</p> --->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=purunaik2000&theme=tokyonight" alt="GitHub streak" />
 </p>
